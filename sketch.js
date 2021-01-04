@@ -4,8 +4,8 @@ var database
 var count=2;
 function preload()
 {
-  happyDogImg=loadImage("images/dogImg1.png")
-  dogImg=loadImage("images/dogImg.png")
+  happyDogImg=loadImage("Dog.png")
+  dogImg=loadImage("happydog.png")
 	//load images here
 }
 
